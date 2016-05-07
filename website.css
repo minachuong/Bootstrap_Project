@@ -1,0 +1,50 @@
+#contentcontainer {
+  background-color: 	#d8d4e5;
+}
+nav {
+ font-family: 'Lobster Two', cursive;
+  font-size: 20px;
+}
+
+.page-header, .bigbutton {
+ font-family: 'Lobster Two', cursive;
+}
+
+body {
+  background-color: #d8d4e5;
+}
+
+
+
+.breadcrumb {
+  background-color: #e7e5ef;
+}
+ /*.img-portfolio  {
+   height: 300px;
+ }*/
+ h4, h2, h3 {
+   font-family: 'Lobster Two', cursive;
+ }
+.teampic {
+  max-height: 200px;
+  max-width: 50px;
+}
+
+.glyphcirclecolor {
+  color: #887ab6;
+}
+
+.buttonbackground {
+  background-color: #887ab6;
+}
+
+
+.addons {
+  list-style: none;
+}
+
+/*
+.portfolio-images {
+   max-height: 10px;
+   background-image: url('http://www.cappadociaballoon.company/img/wedding.jpg');
+ }*/
